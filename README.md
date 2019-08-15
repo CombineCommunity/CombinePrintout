@@ -59,4 +59,5 @@ CombineOpenSource is available under the MIT license. See the LICENSE file for m
 ## Credit
 
 Copyright (c) 2019 Combine Open Source
+
 Created by: Marin Todorov
