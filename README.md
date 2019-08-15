@@ -1,4 +1,4 @@
-# CombinePrintout
+![Combine Printout Logo](https://github.com/combineopensource/CombinePrintout/raw/master/Assets/combine-printout.png)
 
 A Combine micro debugging framework. It helps you log subscription events to the console so you can track their life cycle.
 
